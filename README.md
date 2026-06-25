@@ -22,7 +22,7 @@ This is the first project I have built, while continuing the Youtube series of C
 
  ## How to Use This Project
  * Get a valid API key,(from OpenWeather, or if you want to do in other servers, get the key, and change the url in get_weather_response to what the docs say in their site)
- * Input the lat, and long of a location along with the api key to get weather data.
+ * Input the lat, and long of a location along with the api key to get weather data(this should be done in the file "weathercli.py").
  * Input only these 3 things, more or less of it, would end the program and you have to start again.
  * Done!, the data will be shown in the terminal window, and it will be stored in a csv file named as weather.csv
 
