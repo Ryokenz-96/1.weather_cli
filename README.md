@@ -38,8 +38,6 @@ Testing:-
 ## Known Issues
 This Project is the first one I've ever made, and I' noted down some of the things which may cause an issue at some of time.
 * Change get gust print statement when there would be no gust.
-* Reduce the size for extract_weather testcases using **kwargs
-* Make Separate files for the unit testing of separate functions.
 * Make Test Cases for main() and get_weather_response().
 
 ## Created Using

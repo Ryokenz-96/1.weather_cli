@@ -1,5 +1,5 @@
 import pytest,csv
-from weathercli import extract_weather_info, display_weather, store_weather_data
+from weathercli import extract_weather_info
 def make_weather_data(**kwargs):
     base={
   "coord": {
