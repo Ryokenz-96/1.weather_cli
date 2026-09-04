@@ -1,0 +1,4 @@
+__pycache__/
+weather.csv
+info.txt
+.pytest_cache
